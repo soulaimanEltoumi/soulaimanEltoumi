@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports and programming
 - 🌱 I’m currently learning Javascript (Fullstack Web Dev in Ironhack)
 - 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me email = soulaimaneltoumi@gmail.com  Instagram: Suliimoon
+- 📫 How to reach me email = soulaimaneltoumi@gmail.com 
 
 <!---
 soulaimanEltoumi/soulaimanEltoumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
